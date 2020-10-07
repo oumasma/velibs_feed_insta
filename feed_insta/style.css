@@ -1,0 +1,11 @@
+ul.instagram {
+    list-style: none;
+}
+
+ul.instagram li {
+  float: left;
+}
+
+ul.instagram li img {
+    height: 100px;
+}
